@@ -1,0 +1,4 @@
+This is a sample text file for testing the word count program aa.
+We will use this text to see how many times each word appears.
+Each word should be counted separately.
+Let's test it out and see the results!
